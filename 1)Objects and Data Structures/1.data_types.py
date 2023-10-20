@@ -41,4 +41,6 @@ a += 1
 print(a)
 
 #TEKLİ YORUM SATIRI
-"ÇOKLU YORUM SATIRI"
+"""
+ÇOKLU YORUM SATIRI
+"""
